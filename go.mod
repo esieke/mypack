@@ -1,3 +1,3 @@
-module github.com/esieke1/mypack/v2
+module github.com/esieke/mypack/v2
 
 go 1.15
